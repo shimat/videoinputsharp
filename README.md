@@ -6,10 +6,10 @@ VideoInputSharp is a wrapper to the [videoInput](http://www.muonics.net/school/s
 
 VideoInputSharpは、 [videoInput](http://www.muonics.net/school/spring05/videoInput/).NET Framework向けラッパーです。[videoInput](http://www.muonics.net/school/spring05/videoInput/)とは、DirectShowによるWindows向けのビデオキャプチャを容易に行えるライブラリです。VideoInputSharpにより、その他にライブラリを用意することなく簡単にカメラ等のデバイスからキャプチャが行えます。 
 
+![capture sample](https://raw.githubusercontent.com/shimat/videoinputsharp/master/github/capture_sample.png)
+
 ### Downloads
 Get the VideoInputSharp DLL file from the [release page](https://github.com/shimat/videoinputsharp/releases).
-
-![capture sample](https://raw.githubusercontent.com/shimat/videoinputsharp/master/github/capture_sample.png)
 
 ## Example
 ```c#
