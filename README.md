@@ -8,7 +8,7 @@ VideoInputSharpは、 [videoInput](http://www.muonics.net/school/spring05/videoI
 
 ![capture sample](https://raw.githubusercontent.com/shimat/videoinputsharp/master/github/capture_sample.png)
 
-### Downloads
+## Downloads
 Get the VideoInputSharp DLL file from the [release page](https://github.com/shimat/videoinputsharp/releases).
 
 ## Example
