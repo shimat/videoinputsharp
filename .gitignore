@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+bin
+obj
+/Debug
+Release
+Debug
+Release
+/*.sdf
+/*.suo
